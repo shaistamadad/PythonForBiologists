@@ -1,0 +1,1 @@
+('Average accuracy for', 3, ' K-Fold Cross_ Validation is', 0.68582375478927204)

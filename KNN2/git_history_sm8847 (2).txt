@@ -1,0 +1,96 @@
+λ history
+     1  git config user.name
+     2  git config --list
+     3  git add *.c
+     4  git add  *.c
+     5  git add LICENSE
+     6  git commit -m 'initial project version'
+     7  git commit "quiz_knn_answer_key.py"
+     8  git commit -m "quiz_knn_answer_key.py"
+     9  git commit -m 'quiz_knn_answer_key.py'
+    10  echo "My Project" > README
+    11  git commit -a
+    12  git commit -m "README"
+    13  vim 'quiz_knn_answer_key.py"
+    14  cat 'quiz_knn_answer_key.py"
+    15  git status -s
+    16  git commit -m "I have committed"
+    17  git commit
+    18  git rm
+    19  rm quiz_knn_answer_key.py
+    20  git rm quiz_knn_answer_key.py
+    21  git checkout
+    22  vim README
+    23  cd
+    24  git add
+    25  git add README
+    26  git commit
+    27  git log -p -2
+    28  git log -p
+    29  git checkout -- README
+    30  git checkout README
+    31  ls -a
+    32  git statua
+    33  git init
+    34  git statuas
+    35  git add
+    36  git commit -m "First modify"
+    37  cd Users\admin\project_repository
+    38  cd \Users\admin\project_repository
+    39  history > tt.txt
+    40  more tt.txt
+    41  cd \Users\admin\final_repository
+    42  git init
+    43  git add quiz_knn_answer_key
+    44  git commit -m "This is the original unmodified version"
+
+    45  git commit -m "This is a test commit"
+    46  git commit -m "I have imported the python pdb function to use the debugger, and added a docstring explaining the knn_predict function and its parameters"
+    47  git commit -m "I have added a comment to explain the purpose of the sys.float_info.max. I have created a list of 96 data poitns of euclidean distances, 16 each for the 6 test vector points. The list is then converted into an array and and then I converted this array into a list of 6 arrays: each array with 16 euclidean distances"
+    48  git commit -m "I have created written the code for finding the index for the vectors in m which give the three smallest distances for each of the 6 test data points"
+    49  git log
+    50  git commit -m "My function is complete at this point but some bugs present"
+    51  git commit "My code seems to be working, I used Jupyter lab previously to see if the code works because was having trouble rrunning it in my text editor"
+    52  commit -m "My code still needs some commenting but the bugs are fixed and it is working"
+    53  git status
+    54  history >git_part_B_sm8847.sh
+    55  git tag BigProgress 92d2543
+    56  git tag Unmodified_version 6ce789d
+    57  git commit -m "I have completed debugging but still need to comment"
+    58  git add -A
+    59  git revert HEAD
+    60  git attach  5d24fa7
+    61  touch sm8847_git_log.txt
+    62  history sm8847_git_log.txt
+    63  history > sm8847_git_log.txt
+    64  cat sm8847_git_log.txt
+    65  git log -p
+    66  history
+    67  history > git_history_partB_sm8847.txt
+    68  git add quiz_knn_answer_key.py
+    69  git commit -m "indentation errors rectified, code finally working"
+    70  history > sm8847.txt
+    71  history < sm8847.txt
+    72  git --help
+    73  git add quiz_knn_answer_key.py
+    74  git commit -m "Final version, almost ready to upload"
+    75  git --oneline
+    76  git tag END_TERM_EXAM_2019 3d8614f
+    77  git tag Just starting aa373c7
+    78  git revert 6ce789d
+    79  git checkout aa373c7
+    80  git checkout master
+    81  git revert HEAD
+    82  git revert master
+    83  git checkout 6ce789d
+    84  git restore quiz_knn_answer_key.py
+    85  git revert --abort
+    86  git ls
+    87  ls
+    88  git log
+    89  git log > git_log_part_B_sm8847.txt
+    90  git status
+    91  git log --oneline
+    92  git revert aa373c7
+    93  git history
+    94  history

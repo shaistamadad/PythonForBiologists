@@ -1,0 +1,2 @@
+Predictions for Test Data: 
+['setosa', 'setosa', 'versicolor', 'versicolor', 'versicolor']

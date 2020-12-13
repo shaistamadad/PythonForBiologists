@@ -1,0 +1,61 @@
+commit 3d8614fdf59461b59fe2cb18816b9c0e1bbbbb3a
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 22:13:55 2019 -0500
+
+    Final version, almost ready to upload
+
+commit c9255c2aacb831803fb9022ef5fcfc0d1ce1bb6b
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 20:42:03 2019 -0500
+
+    indentation errors rectified, code finally working
+
+commit 18ca893897de6b5d1907475d1efe178056b8788d
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 19:05:56 2019 -0500
+
+    Revert "I have completed debugging but still need to comment"
+    
+    This reverts commit fc791fa2ab825128edc0c1492160a4bfb8320ba4.
+
+commit fc791fa2ab825128edc0c1492160a4bfb8320ba4
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 19:03:28 2019 -0500
+
+    I have completed debugging but still need to comment
+
+commit 8a946e9f7c27f79fca8cc7a7a0b193816cd31ad8
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 18:18:16 2019 -0500
+
+    My function is complete at this point but some bugs present
+
+commit 92d25436a07835ca34159090a4ddefad9b511606
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 18:02:40 2019 -0500
+
+    I have created written the code for finding the index for the vectors in m which give the three smallest distances for each of the 6 test data points
+
+commit c6f444a09dd267350ddef6252a665d6d4bb7c6a6
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 17:22:36 2019 -0500
+
+    I have added a comment to explain the purpose of the sys.float_info.max. I have created a list of 96 data poitns of euclidean distances, 16 each for the 6 test vector points. The list is then converted into an array and and then I converted this array into a list of 6 arrays: each array with 16 euclidean distances
+
+commit 3c08af17e3c7c29758bef35a80a09484cd0881f4
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 16:59:54 2019 -0500
+
+    I have imported the python pdb function to use the debugger, and added a docstring explaining the knn_predict function and its parameters
+
+commit aa373c7b39a5e461d99504a0cb41bfbf511713d7
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 16:38:04 2019 -0500
+
+    This is a test commit
+
+commit 6ce789d5f8f5bc4513978741c0fa137a69ad64c0
+Author: shaista madad <shaistamadad123@gmail.com>
+Date:   Fri Dec 20 16:34:47 2019 -0500
+
+    This is the original unmodified version

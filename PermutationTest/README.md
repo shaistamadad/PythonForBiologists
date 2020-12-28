@@ -38,4 +38,5 @@ Test your function on the provided data and print the result.
 
 Hint: look at the help for the shuffle function in the random module, and the sort method of
 list.
+
 Note that marks are given for good comments of the functions and the code. 
